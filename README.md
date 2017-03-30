@@ -1,0 +1,2 @@
+# irf
+initiate radiation first
